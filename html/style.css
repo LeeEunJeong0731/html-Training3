@@ -7,3 +7,24 @@
     height: 100vh;
     background-color: #333;
 }
+
+
+/* 가로너비 */
+.width-80vw {width: 80vw;}
+.width-70vw {width: 70vw;}
+
+/* 세로너비 */
+.height-30vh{height: 30vh;}
+.height-40vh{height: 40vh;}
+.height-50vh{height: 50vh;}
+
+/* 그라운드 색상 */
+.bgc-d9d9d9{background-color: #d9d9d9;}
+
+/*위치조정 */
+.display-flex{display: flex;}
+.justify-Center{justify-content: center;}
+.justify-spaceBetween{justify-content: space-between;}
+.justify-sparond{justify-content:space-around;}
+.ailgn-itemsCenter{align-items: center;}
+.flex-directionColumn{flex-direction: column;}

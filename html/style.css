@@ -13,18 +13,22 @@
 .width-10vw {width: 10vw;}
 .width-15vw {width: 15vw;}
 .width-20vw {width: 20vw;}
+.width-20vw {width: 20vw;}
 .width-30vw {width: 30vw;}
 .width-40vw {width: 40vw;}
 .width-50vw {width: 50vw;}
+.width-55vw {width: 55vw;}
 .width-60vw {width: 60vw;}
 .width-70vw {width: 70vw;}
 .width-80vw {width: 80vw;}
 
 /* 세로너비 */
+.height-7vh{height: 7vh;}
 .height-10vh{height: 10vh;}
 .height-15vh{height: 15vh;}
 .height-20vh{height: 20vh;}
 .height-30vh{height: 30vh;}
+.height-35vh{height: 35vh;}
 .height-40vh{height: 40vh;}
 .height-50vh{height: 50vh;}
 
@@ -32,7 +36,8 @@
 .bgc-d9d9d9{background-color: #d9d9d9;}
 .bgc-333{background-color: #333;}
 .bgc-black {background-color: black;}
-.bgc-whihe {background-color: white;}
+.bgc-E7E7E7 {background-color: #E7E7E7;
+    ;}
 
 /*위치조정 */
 .display-flex{display: flex;}
@@ -40,4 +45,29 @@
 .justify-spaceBetween{justify-content: space-between;}
 .justify-sparond{justify-content:space-around;}
 .ailgn-itemsCenter{align-items: center;}
+.ailgn-itemsEnd{align-items: end;}
 .flex-directionColumn{flex-direction: column;}
+
+/* font 사이즈 */
+.fontSize-10px{font-size: 10px;}
+.fontSize-11px{font-size: 11px;}
+.fontSize-12px{font-size: 12px;}
+.fontSize-32px{font-size: 32px;}
+.fontSize-40px{font-size: 40px;}
+
+
+/* font color */
+.color-8D8D8D{color:#8D8D8D;
+    ;}
+
+/* font 굵기 */
+.fontWeight-400{font-weight: 400;}
+
+/* font 위치 */
+.textAlign-center{text-align: center;}
+
+/* margin */
+.maginTop-10px{margin-top: 10px;}
+.maginTop-20px{margin-top: 20px;}
+.maginTop-30px{margin-top: 30px;}
+.maginLeft-20px{margin-left: 20px;}

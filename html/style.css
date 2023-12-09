@@ -49,6 +49,7 @@
 .flex-directionColumn{flex-direction: column;}
 
 /* font 사이즈 */
+.fontSize-9px{font-size: 9px;}
 .fontSize-10px{font-size: 10px;}
 .fontSize-11px{font-size: 11px;}
 .fontSize-12px{font-size: 12px;}
@@ -65,9 +66,11 @@
 
 /* font 위치 */
 .textAlign-center{text-align: center;}
+.textAlign-left{text-align: left;}
 
 /* margin */
 .maginTop-10px{margin-top: 10px;}
 .maginTop-20px{margin-top: 20px;}
 .maginTop-30px{margin-top: 30px;}
+.maginTop-50px{margin-top: 50px;}
 .maginLeft-20px{margin-left: 20px;}

@@ -69,8 +69,15 @@
 .textAlign-left{text-align: left;}
 
 /* margin */
+.maginTop-5px{margin-top: 5px;}
 .maginTop-10px{margin-top: 10px;}
 .maginTop-20px{margin-top: 20px;}
 .maginTop-30px{margin-top: 30px;}
 .maginTop-50px{margin-top: 50px;}
 .maginLeft-20px{margin-left: 20px;}
+.maginLeft-50px{margin-left: 50px;}
+.maginLeft-70px{margin-left: 70px;}
+.maginLeft-200px{margin-left: 200px;}
+.maginLeft-250px{margin-left: 250px;}
+.maginLeft-300px{margin-left: 300px;}
+.left-30vw {left: 30vw;}

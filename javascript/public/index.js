@@ -47,4 +47,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 동적으로 생성한 HTML을 root 요소에 삽입
   rootElement.innerHTML = template;
+  //
 });
